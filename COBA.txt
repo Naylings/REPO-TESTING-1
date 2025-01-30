@@ -2,3 +2,4 @@ INI CONTOH PEMBUATAN FILE DI BRANCH MAIN(MASTER)
 ini baris ke dua di branch main
 ini baris ke -3 pada branch main
 yang ini line ke-4 dibuat pada branch main
+menambahkan baris ke 5 setelah pembuatan file(posisi commit ke-2)
