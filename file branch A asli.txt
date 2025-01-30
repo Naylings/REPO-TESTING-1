@@ -1,0 +1,3 @@
+file di branch a yang asli
+baris ke dua di branch A
+baris ke tiga di branch A
